@@ -1,5 +1,18 @@
-# Getting Started with Create React App
+# React Template Website
+## Features
+- JWT as well as refresh tokens
+- Passport Authentication
+- Google ReCAPTCHA 
+- Navatigation
+- Login/Registration 
+- Connecting with MongoDb and using Sessions
+- Dashboard component only viewable if logged in
 
+## TO DO
+- Install Nodemailer to allow Forgot Password
+- Localstorage to save state with logging in
+- redirecting to unathorized page when on indirect path
+- Deploy React App on Heroku  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
