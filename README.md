@@ -14,6 +14,7 @@
 - redirecting to unathorized page when on indirect path
 - Deploy React App on Heroku  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/53420240/115497695-ca88eb00-a231-11eb-91ea-d586c54b535a.png)
 
 ## Available Scripts
 
